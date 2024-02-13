@@ -1,3 +1,7 @@
+# Data that will just be downloaded
+data/
+notebooks/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
